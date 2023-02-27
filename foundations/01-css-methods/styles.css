@@ -1,3 +1,11 @@
 div{
+<<<<<<< HEAD
     
+=======
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+>>>>>>> 1f4a269a88a43e02653fdf1029ac216a44d4fbc0
 }
